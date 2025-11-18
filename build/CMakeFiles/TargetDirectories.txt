@@ -1,3 +1,0 @@
-/home/flobster23/UNICENTRO/AED2/CompletadorDePalavras/build/CMakeFiles/completador.dir
-/home/flobster23/UNICENTRO/AED2/CompletadorDePalavras/build/CMakeFiles/edit_cache.dir
-/home/flobster23/UNICENTRO/AED2/CompletadorDePalavras/build/CMakeFiles/rebuild_cache.dir
